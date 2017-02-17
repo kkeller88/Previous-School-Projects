@@ -3,3 +3,4 @@ Files
 Applied-Regression.pdf - Non-linear modeling techniques are used and regression models are built to predict how much money a subject spends at the grocery store.                
 Bayesian-Midterm.pdf - A Bayesian meta-analysis is conducted to determine whether there is a difference between the one-year mortality rates for patients that undergo two different procedures to treat coronary heart disease.             
 Bayesian-Final.pdf - A Bayesian ordinal logistic regression model is used to determine which demographic and lifestlye factors that are associated with feeling down or depressed.            
+CART-Midterm - Random forests and support vector machines are used to predict whether a student is going to pass or fail math class based on their covariate values.      
