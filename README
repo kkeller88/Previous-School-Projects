@@ -1,1 +1,3 @@
-### placeholder
+Project-PDFs - A sample of school projects for classes such as machine learning, bayesian inference, and applied regression. This directory contains project PDF files and R code where applicable.         
+         
+Project-Kaggle - A more extensive project using data from the Sberbank Russian Housing Market Kaggle competition to predict the prices of Russian houses. This directory contains the main text of the project and R code used to produce results. 
