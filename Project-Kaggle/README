@@ -1,6 +1,6 @@
-Data from the Sberbank Russian Housing Market Kaggle competition was used to train models that predict the price of a house based on available covariates. Random forest and XGBoost models were used.      
+Data from the Sberbank Russian Housing Market Kaggle competition was used to train models to predict the price of a house based on available covariates. Random forest and XGBoost models were used.      
 
-
+### Files    
 Main_Text.pdf - Contains main text of report    
 Clean_Data.R - Contains R code used to clean up dataset    
 Modeling.R - Contains R code used to run models    
